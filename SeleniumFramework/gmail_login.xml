@@ -1,0 +1,12 @@
+<suite name="Suite"  >
+<listeners>
+<listener class-name="com.baseClasses.Listener"></listener>
+</listeners>
+    <test name="Test">
+        <parameter name="browserName" value="chrome"></parameter>
+        <classes>
+           <parameter name="TestcaseNo" value="1"></parameter>   
+            <class name="com.gmail.testscripts.GmailLogin" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

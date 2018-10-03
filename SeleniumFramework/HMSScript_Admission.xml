@@ -1,0 +1,8 @@
+<suite name="Suite"  >
+    <test name="Test">
+        <classes>
+           <parameter name="TestcaseNo" value="3"></parameter>   
+            <class name="com.testScripts.HMSTestScript_Admission" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

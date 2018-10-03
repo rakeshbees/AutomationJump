@@ -1,0 +1,1259 @@
+2016-11-23 17:36:32 INFO  BaseClass:23 - Execution Started......................
+2016-11-23 17:36:39 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-23 17:37:05 INFO  BaseClass:41 - clicked on flights
+2016-11-23 17:37:15 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-23 17:37:15 INFO  BaseClass:47 - Entered data into from field
+2016-11-23 17:37:15 INFO  BaseClass:50 - Entered data into to field
+2016-11-23 17:37:15 INFO  BaseClass:53 - clicked on departon
+2016-11-23 17:37:15 INFO  BaseClass:56 - clicked on departon date
+2016-11-23 17:37:16 INFO  BaseClass:59 - clicked on returnon
+2016-11-23 17:37:16 INFO  BaseClass:62 - clicked on returnon date
+2016-11-23 17:37:16 INFO  BaseClass:66 - clicked on adults
+2016-11-23 17:37:16 INFO  BaseClass:69 - clicked on children
+2016-11-23 17:37:16 INFO  BaseClass:72 - clicked on infants
+2016-11-23 17:37:16 INFO  BaseClass:75 - clicked on search flights
+2016-11-23 17:37:27 FATAL BaseClass:92 - Unable to login into the applicationnull
+2016-11-23 17:37:43 INFO  BaseClass:31 - Execution Started......................
+2016-11-23 17:37:48 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-23 17:37:49 INFO  BaseClass:45 - clicked on registration link
+2016-11-23 17:37:55 INFO  BaseClass:82 - clicked on submit button
+2016-11-23 17:37:55 INFO  BaseClass:85 - username entered into the text field
+2016-11-23 17:37:56 INFO  BaseClass:88 - password entered into the text field
+2016-11-23 17:37:56 INFO  BaseClass:91 - clicked on submit button
+2016-11-23 17:37:59 INFO  BaseClass:108 - clicked on interacion link
+2016-11-23 17:38:02 INFO  BaseClass:113 - clicked on droppable link
+2016-11-23 17:38:05 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-11-23 17:38:14 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir14376_18672}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9a3576dc38aa5a633078464d04a2cd43
+2016-11-28 11:16:21 INFO  BaseClass:23 - Execution Started......................
+2016-11-28 11:16:56 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-28 11:17:12 INFO  BaseClass:41 - clicked on flights
+2016-11-28 11:17:13 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-28 11:17:13 INFO  BaseClass:47 - Entered data into from field
+2016-11-28 11:17:13 INFO  BaseClass:50 - Entered data into to field
+2016-11-28 11:17:13 INFO  BaseClass:53 - clicked on departon
+2016-11-28 11:17:14 FATAL BaseClass:81 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 125 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir16420_12294}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 28791f4536a280cce283fa40dfc50b68
+*** Element info: {Using=xpath, value=.//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a}
+2016-11-28 11:17:14 FATAL BaseClass:92 - Unable to login into the applicationnull
+2016-11-28 11:17:40 INFO  BaseClass:31 - Execution Started......................
+2016-11-28 11:17:46 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-28 11:17:46 INFO  BaseClass:45 - clicked on registration link
+2016-11-28 11:17:53 INFO  BaseClass:82 - clicked on submit button
+2016-11-28 11:17:53 INFO  BaseClass:85 - username entered into the text field
+2016-11-28 11:17:53 INFO  BaseClass:88 - password entered into the text field
+2016-11-28 11:17:53 INFO  BaseClass:91 - clicked on submit button
+2016-11-28 11:17:56 INFO  BaseClass:108 - clicked on interacion link
+2016-11-28 11:18:03 INFO  BaseClass:113 - clicked on droppable link
+2016-11-28 11:18:03 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-11-28 11:18:12 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir16288_277}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 251999d8c06eb96bb8a162f5d8b2f048
+2016-11-28 11:21:53 INFO  BaseClass:31 - Execution Started......................
+2016-11-28 11:21:53 INFO  BaseClass:23 - Execution Started......................
+2016-11-28 11:21:58 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-28 11:21:59 INFO  BaseClass:45 - clicked on registration link
+2016-11-28 11:22:05 INFO  BaseClass:82 - clicked on submit button
+2016-11-28 11:22:05 INFO  BaseClass:85 - username entered into the text field
+2016-11-28 11:22:05 INFO  BaseClass:88 - password entered into the text field
+2016-11-28 11:22:05 INFO  BaseClass:91 - clicked on submit button
+2016-11-28 11:22:07 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-28 11:23:08 INFO  BaseClass:41 - clicked on flights
+2016-11-28 11:23:11 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-28 11:23:11 INFO  BaseClass:47 - Entered data into from field
+2016-11-28 11:23:11 INFO  BaseClass:50 - Entered data into to field
+2016-11-28 11:23:11 INFO  BaseClass:53 - clicked on departon
+2016-11-28 11:23:11 FATAL BaseClass:81 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 87 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir19920_21345}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 69c121b8cf5da9e650f6b634a2461d13
+*** Element info: {Using=xpath, value=.//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a}
+2016-11-28 11:24:52 INFO  BaseClass:31 - Execution Started......................
+2016-11-28 11:24:52 INFO  BaseClass:23 - Execution Started......................
+2016-11-28 11:24:59 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-28 11:24:59 INFO  BaseClass:45 - clicked on registration link
+2016-11-28 11:25:07 INFO  BaseClass:82 - clicked on submit button
+2016-11-28 11:25:07 INFO  BaseClass:85 - username entered into the text field
+2016-11-28 11:25:07 INFO  BaseClass:88 - password entered into the text field
+2016-11-28 11:25:07 INFO  BaseClass:91 - clicked on submit button
+2016-11-28 11:25:09 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-28 11:25:17 INFO  BaseClass:41 - clicked on flights
+2016-11-28 11:25:18 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-28 11:25:18 INFO  BaseClass:47 - Entered data into from field
+2016-11-28 11:25:19 INFO  BaseClass:50 - Entered data into to field
+2016-11-28 11:25:19 INFO  BaseClass:53 - clicked on departon
+2016-11-28 11:25:19 FATAL BaseClass:81 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 68 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir16996_12448}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4c9b613cf5ec659c20974ff8ab59c64b
+*** Element info: {Using=xpath, value=.//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a}
+2016-11-28 11:26:57 INFO  BaseClass:31 - Execution Started......................
+2016-11-28 11:26:57 INFO  BaseClass:23 - Execution Started......................
+2016-11-28 11:27:17 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-28 11:27:17 INFO  BaseClass:45 - clicked on registration link
+2016-11-28 11:27:18 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-28 11:27:24 FATAL BaseClass:96 - Unable to open the URLnull
+2016-11-28 11:27:28 INFO  BaseClass:41 - clicked on flights
+2016-11-28 11:27:31 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-28 11:27:31 INFO  BaseClass:47 - Entered data into from field
+2016-11-28 11:27:31 INFO  BaseClass:50 - Entered data into to field
+2016-11-28 11:27:31 INFO  BaseClass:53 - clicked on departon
+2016-11-28 11:27:31 FATAL BaseClass:81 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir20344_13945}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 367c01a6ddeb7b7553788d6cdaba7c2e
+*** Element info: {Using=xpath, value=.//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a}
+2016-11-28 11:30:00 INFO  BaseClass:31 - Execution Started......................
+2016-11-28 11:30:00 INFO  BaseClass:23 - Execution Started......................
+2016-11-28 11:30:05 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-28 11:30:06 INFO  BaseClass:45 - clicked on registration link
+2016-11-28 11:30:12 FATAL BaseClass:96 - Unable to open the URLnull
+2016-11-28 11:30:22 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-28 11:30:33 INFO  BaseClass:41 - clicked on flights
+2016-11-28 11:30:34 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-28 11:30:34 INFO  BaseClass:47 - Entered data into from field
+2016-11-28 11:30:34 INFO  BaseClass:50 - Entered data into to field
+2016-11-28 11:30:34 INFO  BaseClass:53 - clicked on departon
+2016-11-28 11:30:34 FATAL BaseClass:81 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir17476_858}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 69e8a37abc27ee1d66299bf29999d55c
+*** Element info: {Using=xpath, value=.//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a}
+2016-11-28 11:31:46 INFO  BaseClass:31 - Execution Started......................
+2016-11-28 11:31:46 INFO  BaseClass:23 - Execution Started......................
+2016-11-28 11:32:02 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-28 11:32:03 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-28 11:32:03 INFO  BaseClass:45 - clicked on registration link
+2016-11-28 11:32:09 FATAL BaseClass:96 - Unable to open the URLno such element: Unable to locate element: {"method":"xpath","selector":"(.//*[@id='load_form']/div/div[1]/p/a)[2]"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir15608_14845}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0e586aafdfa38f07ca077e5624e96111
+*** Element info: {Using=xpath, value=(.//*[@id='load_form']/div/div[1]/p/a)[2]}
+2016-11-28 11:32:10 INFO  BaseClass:41 - clicked on flights
+2016-11-28 11:32:11 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-28 11:32:12 INFO  BaseClass:47 - Entered data into from field
+2016-11-28 11:32:12 INFO  BaseClass:50 - Entered data into to field
+2016-11-28 11:32:12 INFO  BaseClass:53 - clicked on departon
+2016-11-28 11:32:12 FATAL BaseClass:81 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 71 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir11020_22621}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5838a27ff7e2cacfd99b336bf0ec6dfd
+*** Element info: {Using=xpath, value=.//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a}
+2016-11-28 11:37:08 INFO  BaseClass:31 - Execution Started......................
+2016-11-28 11:37:08 INFO  BaseClass:23 - Execution Started......................
+2016-11-28 11:37:15 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-28 11:37:17 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-28 11:38:22 INFO  BaseClass:31 - Execution Started......................
+2016-11-28 11:38:22 INFO  BaseClass:23 - Execution Started......................
+2016-11-28 11:38:52 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-28 11:38:52 INFO  BaseClass:45 - clicked on registration link
+2016-11-28 11:38:55 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-28 11:38:59 INFO  BaseClass:82 - clicked on submit button
+2016-11-28 11:38:59 INFO  BaseClass:85 - username entered into the text field
+2016-11-28 11:38:59 INFO  BaseClass:88 - password entered into the text field
+2016-11-28 11:38:59 INFO  BaseClass:91 - clicked on submit button
+2016-11-28 11:39:14 INFO  BaseClass:41 - clicked on flights
+2016-11-28 11:39:14 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-28 11:39:14 INFO  BaseClass:47 - Entered data into from field
+2016-11-28 11:39:14 INFO  BaseClass:50 - Entered data into to field
+2016-11-28 11:39:14 INFO  BaseClass:53 - clicked on departon
+2016-11-28 11:39:14 FATAL BaseClass:81 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 57 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir13820_4667}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d521466c5c728aa3f0b6e0dbb008cc8a
+*** Element info: {Using=xpath, value=.//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a}
+2016-11-28 12:11:30 INFO  BaseClass:31 - Execution Started......................
+2016-11-28 12:11:30 INFO  BaseClass:23 - Execution Started......................
+2016-11-28 12:11:41 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-28 12:11:44 INFO  BaseClass:45 - clicked on registration link
+2016-11-28 12:11:44 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-28 12:11:53 INFO  BaseClass:82 - clicked on submit button
+2016-11-28 12:11:53 INFO  BaseClass:85 - username entered into the text field
+2016-11-28 12:11:53 INFO  BaseClass:88 - password entered into the text field
+2016-11-28 12:11:54 INFO  BaseClass:91 - clicked on submit button
+2016-11-28 12:11:56 INFO  BaseClass:41 - clicked on flights
+2016-11-28 12:11:59 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-28 12:11:59 INFO  BaseClass:47 - Entered data into from field
+2016-11-28 12:12:00 INFO  BaseClass:50 - Entered data into to field
+2016-11-28 12:12:00 INFO  BaseClass:53 - clicked on departon
+2016-11-28 12:12:00 FATAL BaseClass:81 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 69 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir14108_15295}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9bcdf4821cfa70aae9d3637684e03245
+*** Element info: {Using=xpath, value=.//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a}
+2016-11-30 12:12:48 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 12:12:48 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 12:13:22 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 12:13:26 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 12:13:50 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 12:13:58 INFO  BaseClass:82 - clicked on submit button
+2016-11-30 12:13:58 INFO  BaseClass:85 - username entered into the text field
+2016-11-30 12:13:59 INFO  BaseClass:88 - password entered into the text field
+2016-11-30 12:13:59 INFO  BaseClass:91 - clicked on submit button
+2016-11-30 12:14:01 INFO  BaseClass:41 - clicked on flights
+2016-11-30 12:14:03 INFO  BaseClass:108 - clicked on interacion link
+2016-11-30 12:14:04 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 12:14:05 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 12:14:05 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 12:14:05 INFO  BaseClass:53 - clicked on departon
+2016-11-30 12:14:05 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 12:14:05 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 12:14:05 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 12:14:05 INFO  BaseClass:66 - clicked on adults
+2016-11-30 12:14:06 INFO  BaseClass:69 - clicked on children
+2016-11-30 12:14:06 INFO  BaseClass:72 - clicked on infants
+2016-11-30 12:14:06 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 12:14:12 INFO  BaseClass:113 - clicked on droppable link
+2016-11-30 12:14:12 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-11-30 12:14:22 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir7660_24294}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5f6b8377c3afafd52640a2cfd93dd8d6
+2016-11-30 12:14:23 INFO  BaseClass:38 - clicked on check box
+2016-11-30 12:14:26 FATAL BaseClass:94 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='1_1_G8']"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 61 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir5740_7106}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 373517fc8eff9f637b50e31781944793
+*** Element info: {Using=xpath, value=//*[@id='1_1_G8']}
+2016-11-30 12:14:26 FATAL BaseClass:92 - Unable to login into the applicationnull
+2016-11-30 12:19:53 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 12:20:04 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 12:20:17 INFO  BaseClass:41 - clicked on flights
+2016-11-30 12:20:18 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 12:20:18 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 12:20:18 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 12:20:18 INFO  BaseClass:53 - clicked on departon
+2016-11-30 12:20:18 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 12:20:18 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 12:20:19 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 12:20:19 INFO  BaseClass:66 - clicked on adults
+2016-11-30 12:20:19 INFO  BaseClass:69 - clicked on children
+2016-11-30 12:20:19 INFO  BaseClass:72 - clicked on infants
+2016-11-30 12:20:19 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 12:20:35 FATAL BaseClass:94 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='1_1_MULTI']"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir9732_22243}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ed0b720980dcab892e611c1ad33e8573
+*** Element info: {Using=xpath, value=//*[@id='1_1_MULTI']}
+2016-11-30 12:20:36 FATAL BaseClass:92 - Unable to login into the applicationnull
+2016-11-30 12:20:44 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 12:20:51 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 12:20:52 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 12:20:58 INFO  BaseClass:82 - clicked on submit button
+2016-11-30 12:20:59 INFO  BaseClass:85 - username entered into the text field
+2016-11-30 12:20:59 INFO  BaseClass:88 - password entered into the text field
+2016-11-30 12:20:59 INFO  BaseClass:91 - clicked on submit button
+2016-11-30 12:21:02 INFO  BaseClass:108 - clicked on interacion link
+2016-11-30 12:21:07 INFO  BaseClass:113 - clicked on droppable link
+2016-11-30 12:21:07 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-11-30 12:21:17 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir11180_1935}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 35ca5ec6ae0fbc529997780b43a4fd36
+2016-11-30 14:24:10 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 14:24:58 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 14:25:13 INFO  BaseClass:41 - clicked on flights
+2016-11-30 14:25:15 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 14:25:15 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 14:25:15 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 14:25:15 INFO  BaseClass:53 - clicked on departon
+2016-11-30 14:25:15 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 14:25:16 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 14:25:16 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 14:25:16 INFO  BaseClass:66 - clicked on adults
+2016-11-30 14:25:16 INFO  BaseClass:69 - clicked on children
+2016-11-30 14:25:16 INFO  BaseClass:72 - clicked on infants
+2016-11-30 14:25:16 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 14:25:50 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 14:26:07 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 14:26:07 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 14:27:56 FATAL BaseClass:96 - Unable to open the URLnull
+2016-11-30 14:29:52 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 14:30:15 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 14:30:24 INFO  BaseClass:41 - clicked on flights
+2016-11-30 14:30:26 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 14:30:26 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 14:30:26 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 14:30:26 INFO  BaseClass:53 - clicked on departon
+2016-11-30 14:30:26 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 14:30:26 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 14:30:27 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 14:30:27 INFO  BaseClass:66 - clicked on adults
+2016-11-30 14:30:27 INFO  BaseClass:69 - clicked on children
+2016-11-30 14:30:27 INFO  BaseClass:72 - clicked on infants
+2016-11-30 14:30:27 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 14:30:44 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 14:30:48 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 14:30:49 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 14:30:55 INFO  BaseClass:82 - clicked on submit button
+2016-11-30 14:30:55 INFO  BaseClass:85 - username entered into the text field
+2016-11-30 14:30:55 INFO  BaseClass:88 - password entered into the text field
+2016-11-30 14:30:55 INFO  BaseClass:91 - clicked on submit button
+2016-11-30 14:36:52 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 14:37:32 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 14:37:39 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 14:37:43 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 14:37:44 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 14:37:50 INFO  BaseClass:82 - clicked on submit button
+2016-11-30 14:37:50 INFO  BaseClass:85 - username entered into the text field
+2016-11-30 14:37:50 INFO  BaseClass:88 - password entered into the text field
+2016-11-30 14:37:50 INFO  BaseClass:91 - clicked on submit button
+2016-11-30 14:42:23 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 14:42:23 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 14:42:28 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 14:42:29 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 14:42:35 INFO  BaseClass:82 - clicked on submit button
+2016-11-30 14:42:35 INFO  BaseClass:85 - username entered into the text field
+2016-11-30 14:42:35 INFO  BaseClass:88 - password entered into the text field
+2016-11-30 14:42:35 INFO  BaseClass:91 - clicked on submit button
+2016-11-30 14:43:03 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 14:45:52 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 14:45:52 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 14:46:00 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 14:46:00 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 14:46:02 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 14:46:06 FATAL BaseClass:96 - Unable to open the URLnull
+2016-11-30 14:56:31 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 14:56:31 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 14:56:39 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 14:56:42 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 14:56:49 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 14:56:55 INFO  BaseClass:82 - clicked on submit button
+2016-11-30 14:56:56 INFO  BaseClass:85 - username entered into the text field
+2016-11-30 14:56:56 INFO  BaseClass:88 - password entered into the text field
+2016-11-30 14:56:56 INFO  BaseClass:91 - clicked on submit button
+2016-11-30 15:05:07 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 15:05:07 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 15:05:13 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 15:05:13 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 15:05:19 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 15:05:19 FATAL BaseClass:96 - Unable to open the URLnull
+2016-11-30 15:05:29 INFO  BaseClass:41 - clicked on flights
+2016-11-30 15:05:29 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 15:05:30 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 15:05:30 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 15:05:30 INFO  BaseClass:53 - clicked on departon
+2016-11-30 15:05:30 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 15:05:30 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 15:05:30 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 15:05:31 INFO  BaseClass:66 - clicked on adults
+2016-11-30 15:05:31 INFO  BaseClass:69 - clicked on children
+2016-11-30 15:05:31 INFO  BaseClass:72 - clicked on infants
+2016-11-30 15:05:31 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 15:07:47 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 15:07:47 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 15:07:54 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 15:07:54 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 15:07:58 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 15:08:00 INFO  BaseClass:82 - clicked on submit button
+2016-11-30 15:08:01 INFO  BaseClass:85 - username entered into the text field
+2016-11-30 15:08:01 INFO  BaseClass:88 - password entered into the text field
+2016-11-30 15:08:01 INFO  BaseClass:91 - clicked on submit button
+2016-11-30 15:08:25 INFO  BaseClass:41 - clicked on flights
+2016-11-30 15:08:25 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 15:08:26 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 15:08:26 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 15:08:26 INFO  BaseClass:53 - clicked on departon
+2016-11-30 15:08:26 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 15:08:26 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 15:08:26 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 15:08:26 INFO  BaseClass:66 - clicked on adults
+2016-11-30 15:08:26 INFO  BaseClass:69 - clicked on children
+2016-11-30 15:08:26 INFO  BaseClass:72 - clicked on infants
+2016-11-30 15:08:26 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 15:10:06 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 15:10:06 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 15:10:13 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 15:10:13 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 15:10:17 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 15:10:19 FATAL BaseClass:96 - Unable to open the URLnull
+2016-11-30 15:10:31 INFO  BaseClass:41 - clicked on flights
+2016-11-30 15:10:33 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 15:10:33 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 15:10:33 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 15:10:33 INFO  BaseClass:53 - clicked on departon
+2016-11-30 15:10:33 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 15:10:33 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 15:10:34 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 15:10:34 INFO  BaseClass:66 - clicked on adults
+2016-11-30 15:10:34 INFO  BaseClass:69 - clicked on children
+2016-11-30 15:10:34 INFO  BaseClass:72 - clicked on infants
+2016-11-30 15:10:34 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 15:17:37 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 15:17:37 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 15:17:44 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 15:17:45 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 15:17:48 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 15:17:51 INFO  BaseClass:82 - clicked on submit button
+2016-11-30 15:17:52 INFO  BaseClass:85 - username entered into the text field
+2016-11-30 15:17:52 INFO  BaseClass:88 - password entered into the text field
+2016-11-30 15:17:52 INFO  BaseClass:91 - clicked on submit button
+2016-11-30 15:17:58 INFO  BaseClass:41 - clicked on flights
+2016-11-30 15:17:59 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 15:17:59 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 15:17:59 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 15:17:59 INFO  BaseClass:53 - clicked on departon
+2016-11-30 15:17:59 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 15:18:03 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 15:18:03 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 15:18:04 INFO  BaseClass:66 - clicked on adults
+2016-11-30 15:18:04 INFO  BaseClass:69 - clicked on children
+2016-11-30 15:18:04 INFO  BaseClass:72 - clicked on infants
+2016-11-30 15:18:04 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 15:24:16 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 15:24:16 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 15:24:21 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 15:24:21 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 15:24:27 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 15:24:27 FATAL BaseClass:96 - Unable to open the URLnull
+2016-11-30 15:24:47 INFO  BaseClass:41 - clicked on flights
+2016-11-30 15:25:06 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 15:25:06 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 15:25:07 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 15:25:07 INFO  BaseClass:53 - clicked on departon
+2016-11-30 15:25:07 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 15:25:07 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 15:25:07 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 15:25:07 INFO  BaseClass:66 - clicked on adults
+2016-11-30 15:25:07 INFO  BaseClass:69 - clicked on children
+2016-11-30 15:25:07 INFO  BaseClass:72 - clicked on infants
+2016-11-30 15:25:07 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 15:26:57 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 15:26:57 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 15:27:03 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 15:27:04 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 15:27:06 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 15:27:10 FATAL BaseClass:96 - Unable to open the URLnull
+2016-11-30 15:27:18 INFO  BaseClass:41 - clicked on flights
+2016-11-30 15:27:19 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 15:27:19 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 15:27:19 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 15:27:19 INFO  BaseClass:53 - clicked on departon
+2016-11-30 15:27:19 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 15:27:19 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 15:27:19 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 15:27:20 INFO  BaseClass:66 - clicked on adults
+2016-11-30 15:27:20 INFO  BaseClass:69 - clicked on children
+2016-11-30 15:27:20 INFO  BaseClass:72 - clicked on infants
+2016-11-30 15:27:20 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 15:41:17 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 15:41:17 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 15:41:19 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 15:41:19 FATAL BaseClass:81 - Unable to login into the applicationno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir4900_32497}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a0cd7873b5b416d0d3bed882473d0baa
+2016-11-30 15:41:20 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 15:41:21 FATAL BaseClass:96 - Unable to open the URLno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW2205', ip: '172.16.29.205', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir13152_13194}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6c01c9d5369a0918a6d8e41a0d842f76
+*** Element info: {Using=xpath, value=//a[text()='Registration']}
+2016-11-30 15:41:37 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 15:41:37 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 15:41:44 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 15:41:44 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 15:41:45 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 15:41:51 FATAL BaseClass:96 - Unable to open the URLnull
+2016-11-30 15:42:16 INFO  BaseClass:41 - clicked on flights
+2016-11-30 15:42:19 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 15:42:19 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 15:42:19 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 15:42:19 INFO  BaseClass:53 - clicked on departon
+2016-11-30 15:42:19 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 15:42:19 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 15:42:20 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 15:42:20 INFO  BaseClass:66 - clicked on adults
+2016-11-30 15:42:20 INFO  BaseClass:69 - clicked on children
+2016-11-30 15:42:20 INFO  BaseClass:72 - clicked on infants
+2016-11-30 15:42:20 INFO  BaseClass:75 - clicked on search flights
+2016-11-30 15:43:17 INFO  BaseClass:31 - Execution Started......................
+2016-11-30 15:43:17 INFO  BaseClass:23 - Execution Started......................
+2016-11-30 15:43:26 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-11-30 15:43:27 INFO  BaseClass:45 - clicked on registration link
+2016-11-30 15:43:28 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-11-30 15:43:33 INFO  BaseClass:82 - clicked on submit button
+2016-11-30 15:43:33 INFO  BaseClass:85 - username entered into the text field
+2016-11-30 15:43:33 INFO  BaseClass:88 - password entered into the text field
+2016-11-30 15:43:33 INFO  BaseClass:91 - clicked on submit button
+2016-11-30 15:43:59 INFO  BaseClass:41 - clicked on flights
+2016-11-30 15:44:00 INFO  BaseClass:44 - clicked on roundtrip
+2016-11-30 15:44:00 INFO  BaseClass:47 - Entered data into from field
+2016-11-30 15:44:00 INFO  BaseClass:50 - Entered data into to field
+2016-11-30 15:44:00 INFO  BaseClass:53 - clicked on departon
+2016-11-30 15:44:00 INFO  BaseClass:56 - clicked on departon date
+2016-11-30 15:44:00 INFO  BaseClass:59 - clicked on returnon
+2016-11-30 15:44:00 INFO  BaseClass:62 - clicked on returnon date
+2016-11-30 15:44:00 INFO  BaseClass:66 - clicked on adults
+2016-11-30 15:44:00 INFO  BaseClass:69 - clicked on children
+2016-11-30 15:44:01 INFO  BaseClass:72 - clicked on infants
+2016-11-30 15:44:01 INFO  BaseClass:75 - clicked on search flights
+2016-12-01 10:41:39 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 10:41:39 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 10:41:43 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 10:41:43 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 10:41:50 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 10:41:50 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 10:41:50 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 10:41:50 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 10:42:17 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 10:42:27 INFO  BaseClass:41 - clicked on flights
+2016-12-01 10:42:28 INFO  BaseClass:44 - clicked on roundtrip
+2016-12-01 10:42:28 INFO  BaseClass:47 - Entered data into from field
+2016-12-01 10:42:28 INFO  BaseClass:50 - Entered data into to field
+2016-12-01 10:42:29 INFO  BaseClass:53 - clicked on departon
+2016-12-01 10:42:29 INFO  BaseClass:56 - clicked on departon date
+2016-12-01 10:42:29 INFO  BaseClass:59 - clicked on returnon
+2016-12-01 10:42:29 INFO  BaseClass:62 - clicked on returnon date
+2016-12-01 10:42:29 INFO  BaseClass:66 - clicked on adults
+2016-12-01 10:42:29 INFO  BaseClass:69 - clicked on children
+2016-12-01 10:42:29 INFO  BaseClass:72 - clicked on infants
+2016-12-01 10:42:29 INFO  BaseClass:75 - clicked on search flights
+2016-12-01 11:01:12 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 11:01:12 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 11:01:14 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 11:01:14 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 11:01:19 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 11:01:20 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 11:01:20 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 11:01:21 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 11:01:21 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 11:21:44 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 11:21:44 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 11:21:48 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 11:21:48 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 11:21:54 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 11:21:54 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 11:21:54 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 11:21:54 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 11:22:26 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 11:53:42 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 11:53:42 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 11:53:52 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 11:53:52 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 11:53:54 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 11:53:59 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 11:53:59 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 11:53:59 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 11:53:59 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:04:18 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:04:18 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:04:22 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:04:22 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:04:28 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:04:28 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:04:28 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:04:28 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:04:28 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:08:19 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:08:19 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:08:23 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:08:23 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:08:29 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:08:29 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:08:29 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:08:30 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:09:16 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:10:20 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:10:20 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:10:24 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:10:24 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:10:28 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:10:30 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:10:30 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:10:31 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:10:31 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:11:27 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:11:27 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:11:32 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:11:32 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:11:33 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:11:38 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:11:38 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:11:38 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:11:38 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:13:49 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:13:49 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:13:52 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:13:52 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:13:57 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:13:59 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:13:59 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:13:59 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:13:59 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:15:32 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:15:32 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:15:35 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:15:35 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:15:38 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:15:41 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:15:41 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:15:41 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:15:42 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:17:04 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:17:04 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:17:08 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:17:09 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:17:13 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:17:15 FATAL BaseClass:96 - Unable to open the URLnull
+2016-12-01 12:23:07 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:23:07 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:23:09 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:23:10 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:23:16 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:23:16 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:23:16 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:23:16 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:23:18 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:24:28 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:24:28 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:24:33 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:24:33 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:24:39 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:24:39 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:24:40 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:24:40 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:25:04 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:26:20 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:26:20 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:26:24 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:26:24 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:26:26 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:26:30 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:26:31 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:26:31 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:26:31 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:27:35 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:27:35 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:27:38 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:27:38 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:27:42 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:27:44 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:27:44 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:27:45 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:27:45 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 12:38:20 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 12:38:20 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 12:38:23 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 12:38:23 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 12:38:29 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 12:38:29 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 12:38:29 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 12:38:30 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 12:38:30 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:03:01 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:03:02 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:03:06 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:03:07 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:03:13 FATAL BaseClass:96 - Unable to open the URLnull
+2016-12-01 16:03:14 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:05:59 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:05:59 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:06:02 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:06:03 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:06:07 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:06:09 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:06:09 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:06:09 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:06:09 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:08:34 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:08:34 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:08:36 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:08:37 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:08:40 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:08:43 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:08:43 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:08:43 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:08:43 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:10:42 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:10:42 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:10:45 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:10:46 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:10:52 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:10:52 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:10:52 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:10:52 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:10:52 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:15:02 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:15:02 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:15:06 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:15:06 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:15:12 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:15:13 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:15:13 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:15:13 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:15:38 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:18:34 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:18:34 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:18:37 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:18:38 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:18:44 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:18:44 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:18:44 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:18:44 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:18:49 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:20:27 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:20:27 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:20:31 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:20:31 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:20:32 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:20:37 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:20:38 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:20:38 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:20:38 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:22:40 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:22:40 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:22:43 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:22:44 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:22:50 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:22:50 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:22:50 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:22:50 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:23:39 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:23:39 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:23:44 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:23:44 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:23:45 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:23:50 FATAL BaseClass:96 - Unable to open the URLnull
+2016-12-01 16:27:10 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:27:10 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:27:15 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:27:16 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:27:17 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:27:22 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:27:22 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:27:22 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:27:22 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:32:44 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:32:44 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:32:46 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:32:47 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:32:52 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:32:53 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:32:53 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:32:54 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:32:54 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:39:55 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:39:55 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:39:58 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:39:59 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:40:03 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:40:05 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:40:05 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:40:05 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:40:05 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:44:51 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:44:51 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:44:55 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:44:56 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:45:02 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:45:02 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:45:02 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:45:02 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:45:18 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:48:19 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:48:19 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:48:22 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:48:22 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:48:26 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:48:28 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:48:29 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:48:29 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:48:29 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:51:44 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:51:44 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:51:49 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:51:49 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:51:55 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:51:55 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:51:55 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:51:55 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:52:05 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 16:55:27 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 16:55:27 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 16:55:29 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 16:55:30 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 16:55:36 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 16:55:36 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 16:55:36 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 16:55:36 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 16:55:41 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 17:00:24 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 17:00:24 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 17:00:36 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 17:00:40 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 17:00:41 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 17:00:47 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 17:00:47 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 17:00:47 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 17:00:47 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 17:02:20 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 17:02:20 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 17:02:24 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 17:02:24 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 17:02:29 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 17:02:30 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 17:02:30 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 17:02:31 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 17:02:31 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 17:04:58 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 17:04:58 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 17:05:02 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 17:05:02 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 17:05:04 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 17:05:09 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 17:05:09 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 17:05:09 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 17:05:09 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 17:08:42 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 17:08:42 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 17:08:45 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 17:08:45 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 17:08:52 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 17:08:52 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 17:08:52 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 17:08:52 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 17:08:56 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 17:13:53 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 17:13:53 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 17:14:02 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 17:14:09 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 17:14:09 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 17:14:15 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 17:14:15 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 17:14:15 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 17:14:15 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 17:18:35 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 17:18:35 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 17:18:41 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 17:18:41 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 17:18:47 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 17:18:47 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 17:18:47 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 17:18:47 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 17:18:50 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 17:21:17 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 17:21:17 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 17:21:21 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 17:21:21 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 17:21:24 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 17:21:28 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 17:21:28 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 17:21:28 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 17:21:28 INFO  BaseClass:91 - clicked on submit button
+2016-12-01 17:38:42 INFO  BaseClass:31 - Execution Started......................
+2016-12-01 17:38:42 INFO  BaseClass:23 - Execution Started......................
+2016-12-01 17:38:46 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-01 17:38:46 INFO  BaseClass:45 - clicked on registration link
+2016-12-01 17:38:48 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-01 17:38:52 INFO  BaseClass:82 - clicked on submit button
+2016-12-01 17:38:52 INFO  BaseClass:85 - username entered into the text field
+2016-12-01 17:38:52 INFO  BaseClass:88 - password entered into the text field
+2016-12-01 17:38:52 INFO  BaseClass:91 - clicked on submit button
+2016-12-02 10:56:15 INFO  BaseClass:31 - Execution Started......................
+2016-12-02 10:56:15 INFO  BaseClass:23 - Execution Started......................
+2016-12-02 10:56:18 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-02 10:56:19 INFO  BaseClass:45 - clicked on registration link
+2016-12-02 10:56:22 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-02 10:56:25 INFO  BaseClass:82 - clicked on submit button
+2016-12-02 10:56:25 INFO  BaseClass:85 - username entered into the text field
+2016-12-02 10:56:25 INFO  BaseClass:88 - password entered into the text field
+2016-12-02 10:56:25 INFO  BaseClass:91 - clicked on submit button
+2016-12-02 11:02:36 INFO  BaseClass:31 - Execution Started......................
+2016-12-02 11:02:36 INFO  BaseClass:23 - Execution Started......................
+2016-12-02 11:02:38 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-02 11:02:38 INFO  BaseClass:45 - clicked on registration link
+2016-12-02 11:02:44 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-02 11:02:44 INFO  BaseClass:82 - clicked on submit button
+2016-12-02 11:02:44 INFO  BaseClass:85 - username entered into the text field
+2016-12-02 11:02:44 INFO  BaseClass:88 - password entered into the text field
+2016-12-02 11:02:44 INFO  BaseClass:91 - clicked on submit button
+2016-12-02 11:02:48 INFO  BaseClass:108 - clicked on interacion link
+2016-12-02 11:02:51 INFO  BaseClass:113 - clicked on droppable link
+2016-12-02 11:02:54 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-12-02 11:02:55 INFO  BaseClass:41 - clicked on flights
+2016-12-02 11:02:55 INFO  BaseClass:44 - clicked on roundtrip
+2016-12-02 11:02:56 INFO  BaseClass:47 - Entered data into from field
+2016-12-02 11:02:56 INFO  BaseClass:50 - Entered data into to field
+2016-12-02 11:02:56 INFO  BaseClass:53 - clicked on departon
+2016-12-02 11:02:56 INFO  BaseClass:56 - clicked on departon date
+2016-12-02 11:02:56 INFO  BaseClass:59 - clicked on returnon
+2016-12-02 11:02:56 INFO  BaseClass:62 - clicked on returnon date
+2016-12-02 11:02:56 INFO  BaseClass:66 - clicked on adults
+2016-12-02 11:02:56 INFO  BaseClass:69 - clicked on children
+2016-12-02 11:02:57 INFO  BaseClass:72 - clicked on infants
+2016-12-02 11:02:57 INFO  BaseClass:75 - clicked on search flights
+2016-12-02 11:03:04 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW0942', ip: '172.16.30.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir5744_14623}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 28779d517620079935e92d7ad01645f8
+2016-12-02 11:03:13 FATAL BaseClass:94 - Unable to login into the applicationno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='1_1_MULTI']"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW0942', ip: '172.16.30.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir664_25138}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9f125e3969f25485a370a54cb75067ca
+*** Element info: {Using=xpath, value=//*[@id='1_1_MULTI']}
+2016-12-02 11:03:13 FATAL BaseClass:92 - Unable to login into the applicationnull
+2016-12-02 11:10:19 INFO  BaseClass:31 - Execution Started......................
+2016-12-02 11:10:19 INFO  BaseClass:23 - Execution Started......................
+2016-12-02 11:10:21 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-02 11:10:21 INFO  BaseClass:45 - clicked on registration link
+2016-12-02 11:10:23 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-02 11:10:28 INFO  BaseClass:82 - clicked on submit button
+2016-12-02 11:10:28 INFO  BaseClass:85 - username entered into the text field
+2016-12-02 11:10:28 INFO  BaseClass:88 - password entered into the text field
+2016-12-02 11:10:28 INFO  BaseClass:91 - clicked on submit button
+2016-12-02 11:10:30 INFO  BaseClass:41 - clicked on flights
+2016-12-02 11:10:31 INFO  BaseClass:44 - clicked on roundtrip
+2016-12-02 11:10:31 INFO  BaseClass:47 - Entered data into from field
+2016-12-02 11:10:31 INFO  BaseClass:50 - Entered data into to field
+2016-12-02 11:10:31 INFO  BaseClass:53 - clicked on departon
+2016-12-02 11:10:31 INFO  BaseClass:108 - clicked on interacion link
+2016-12-02 11:10:31 INFO  BaseClass:56 - clicked on departon date
+2016-12-02 11:10:31 INFO  BaseClass:59 - clicked on returnon
+2016-12-02 11:10:31 INFO  BaseClass:62 - clicked on returnon date
+2016-12-02 11:10:31 INFO  BaseClass:66 - clicked on adults
+2016-12-02 11:10:31 INFO  BaseClass:69 - clicked on children
+2016-12-02 11:10:31 INFO  BaseClass:72 - clicked on infants
+2016-12-02 11:10:31 INFO  BaseClass:75 - clicked on search flights
+2016-12-02 11:10:34 INFO  BaseClass:113 - clicked on droppable link
+2016-12-02 11:10:36 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-12-02 11:10:45 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW0942', ip: '172.16.30.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir10956_18664}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d71c11f1c4daff74dd323d2a3f09a14d
+2016-12-02 11:18:16 INFO  BaseClass:23 - Execution Started......................
+2016-12-02 11:18:16 INFO  BaseClass:31 - Execution Started......................
+2016-12-02 11:18:18 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-02 11:18:18 INFO  BaseClass:45 - clicked on registration link
+2016-12-02 11:18:18 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-02 11:18:24 INFO  BaseClass:82 - clicked on submit button
+2016-12-02 11:18:25 INFO  BaseClass:85 - username entered into the text field
+2016-12-02 11:18:25 INFO  BaseClass:88 - password entered into the text field
+2016-12-02 11:18:25 INFO  BaseClass:91 - clicked on submit button
+2016-12-02 11:18:25 INFO  BaseClass:41 - clicked on flights
+2016-12-02 11:18:25 INFO  BaseClass:44 - clicked on roundtrip
+2016-12-02 11:18:26 INFO  BaseClass:47 - Entered data into from field
+2016-12-02 11:18:26 INFO  BaseClass:50 - Entered data into to field
+2016-12-02 11:18:26 INFO  BaseClass:53 - clicked on departon
+2016-12-02 11:18:26 INFO  BaseClass:56 - clicked on departon date
+2016-12-02 11:18:26 INFO  BaseClass:59 - clicked on returnon
+2016-12-02 11:18:26 INFO  BaseClass:62 - clicked on returnon date
+2016-12-02 11:18:26 INFO  BaseClass:66 - clicked on adults
+2016-12-02 11:18:26 INFO  BaseClass:69 - clicked on children
+2016-12-02 11:18:26 INFO  BaseClass:72 - clicked on infants
+2016-12-02 11:18:26 INFO  BaseClass:75 - clicked on search flights
+2016-12-02 11:18:28 INFO  BaseClass:108 - clicked on interacion link
+2016-12-02 11:18:31 INFO  BaseClass:113 - clicked on droppable link
+2016-12-02 11:18:33 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-12-02 11:18:43 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW0942', ip: '172.16.30.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir10896_2575}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 72a982f0c7d2bb5d529210f9cd151068
+2016-12-02 12:40:30 INFO  BaseClass:31 - Execution Started......................
+2016-12-02 12:40:30 INFO  BaseClass:23 - Execution Started......................
+2016-12-02 12:40:37 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-02 12:40:38 INFO  BaseClass:45 - clicked on registration link
+2016-12-02 12:40:42 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-02 12:40:47 INFO  BaseClass:82 - clicked on submit button
+2016-12-02 12:40:47 INFO  BaseClass:85 - username entered into the text field
+2016-12-02 12:40:47 INFO  BaseClass:88 - password entered into the text field
+2016-12-02 12:40:47 INFO  BaseClass:91 - clicked on submit button
+2016-12-02 12:40:50 INFO  BaseClass:108 - clicked on interacion link
+2016-12-02 12:40:51 INFO  BaseClass:41 - clicked on flights
+2016-12-02 12:40:51 INFO  BaseClass:44 - clicked on roundtrip
+2016-12-02 12:40:51 INFO  BaseClass:47 - Entered data into from field
+2016-12-02 12:40:51 INFO  BaseClass:50 - Entered data into to field
+2016-12-02 12:40:52 INFO  BaseClass:53 - clicked on departon
+2016-12-02 12:40:52 INFO  BaseClass:56 - clicked on departon date
+2016-12-02 12:40:52 INFO  BaseClass:59 - clicked on returnon
+2016-12-02 12:40:52 INFO  BaseClass:62 - clicked on returnon date
+2016-12-02 12:40:52 INFO  BaseClass:66 - clicked on adults
+2016-12-02 12:40:52 INFO  BaseClass:69 - clicked on children
+2016-12-02 12:40:52 INFO  BaseClass:72 - clicked on infants
+2016-12-02 12:40:52 INFO  BaseClass:75 - clicked on search flights
+2016-12-02 12:40:57 INFO  BaseClass:113 - clicked on droppable link
+2016-12-02 12:40:57 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-12-02 12:41:06 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW0942', ip: '172.16.30.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir10504_6714}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fd785955680602816d10c14989c4f421
+2016-12-02 15:07:12 INFO  BaseClass:31 - Execution Started......................
+2016-12-02 15:07:12 INFO  BaseClass:23 - Execution Started......................
+2016-12-02 15:07:19 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-02 15:07:20 INFO  BaseClass:45 - clicked on registration link
+2016-12-02 15:07:26 FATAL BaseClass:96 - Unable to open the URLnull
+2016-12-02 15:07:29 FATAL BaseClass:157 - Unable to open the URLnull
+2016-12-02 15:08:20 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-02 15:08:29 INFO  BaseClass:41 - clicked on flights
+2016-12-02 15:08:30 INFO  BaseClass:44 - clicked on roundtrip
+2016-12-02 15:08:30 INFO  BaseClass:47 - Entered data into from field
+2016-12-02 15:08:30 INFO  BaseClass:50 - Entered data into to field
+2016-12-02 15:08:30 INFO  BaseClass:53 - clicked on departon
+2016-12-02 15:08:30 INFO  BaseClass:56 - clicked on departon date
+2016-12-02 15:08:30 INFO  BaseClass:59 - clicked on returnon
+2016-12-02 15:08:30 INFO  BaseClass:62 - clicked on returnon date
+2016-12-02 15:08:30 INFO  BaseClass:66 - clicked on adults
+2016-12-02 15:08:30 INFO  BaseClass:69 - clicked on children
+2016-12-02 15:08:31 INFO  BaseClass:72 - clicked on infants
+2016-12-02 15:08:31 INFO  BaseClass:75 - clicked on search flights
+2016-12-02 15:11:15 INFO  BaseClass:31 - Execution Started......................
+2016-12-02 15:11:15 INFO  BaseClass:23 - Execution Started......................
+2016-12-02 15:11:20 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-02 15:11:20 INFO  BaseClass:45 - clicked on registration link
+2016-12-02 15:11:26 INFO  BaseClass:82 - clicked on submit button
+2016-12-02 15:11:26 INFO  BaseClass:85 - username entered into the text field
+2016-12-02 15:11:27 INFO  BaseClass:88 - password entered into the text field
+2016-12-02 15:11:27 INFO  BaseClass:91 - clicked on submit button
+2016-12-02 15:11:27 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-02 15:11:30 INFO  BaseClass:108 - clicked on interacion link
+2016-12-02 15:11:36 INFO  BaseClass:113 - clicked on droppable link
+2016-12-02 15:11:36 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-12-02 15:11:46 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW0942', ip: '172.16.30.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir9576_47}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d6882e576a38c1bb2c483c0e8089828f
+2016-12-02 15:11:57 INFO  BaseClass:41 - clicked on flights
+2016-12-02 15:11:58 INFO  BaseClass:44 - clicked on roundtrip
+2016-12-02 15:11:58 INFO  BaseClass:47 - Entered data into from field
+2016-12-02 15:11:58 INFO  BaseClass:50 - Entered data into to field
+2016-12-02 15:11:58 INFO  BaseClass:53 - clicked on departon
+2016-12-02 15:11:58 INFO  BaseClass:56 - clicked on departon date
+2016-12-02 15:11:58 INFO  BaseClass:59 - clicked on returnon
+2016-12-02 15:11:58 INFO  BaseClass:62 - clicked on returnon date
+2016-12-02 15:11:58 INFO  BaseClass:66 - clicked on adults
+2016-12-02 15:11:58 INFO  BaseClass:69 - clicked on children
+2016-12-02 15:11:58 INFO  BaseClass:72 - clicked on infants
+2016-12-02 15:11:58 INFO  BaseClass:75 - clicked on search flights
+2016-12-02 15:13:32 INFO  BaseClass:31 - Execution Started......................
+2016-12-02 15:13:32 INFO  BaseClass:23 - Execution Started......................
+2016-12-02 15:13:36 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-02 15:13:36 INFO  BaseClass:45 - clicked on registration link
+2016-12-02 15:13:42 INFO  BaseClass:82 - clicked on submit button
+2016-12-02 15:13:42 INFO  BaseClass:85 - username entered into the text field
+2016-12-02 15:13:42 INFO  BaseClass:88 - password entered into the text field
+2016-12-02 15:13:42 INFO  BaseClass:91 - clicked on submit button
+2016-12-02 15:13:48 INFO  BaseClass:108 - clicked on interacion link
+2016-12-02 15:13:51 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-02 15:13:51 INFO  BaseClass:113 - clicked on droppable link
+2016-12-02 15:13:55 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-12-02 15:14:00 INFO  BaseClass:41 - clicked on flights
+2016-12-02 15:14:01 INFO  BaseClass:44 - clicked on roundtrip
+2016-12-02 15:14:01 INFO  BaseClass:47 - Entered data into from field
+2016-12-02 15:14:01 INFO  BaseClass:50 - Entered data into to field
+2016-12-02 15:14:01 INFO  BaseClass:53 - clicked on departon
+2016-12-02 15:14:01 INFO  BaseClass:56 - clicked on departon date
+2016-12-02 15:14:01 INFO  BaseClass:59 - clicked on returnon
+2016-12-02 15:14:01 INFO  BaseClass:62 - clicked on returnon date
+2016-12-02 15:14:01 INFO  BaseClass:66 - clicked on adults
+2016-12-02 15:14:02 INFO  BaseClass:69 - clicked on children
+2016-12-02 15:14:02 INFO  BaseClass:72 - clicked on infants
+2016-12-02 15:14:02 INFO  BaseClass:75 - clicked on search flights
+2016-12-02 15:14:04 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW0942', ip: '172.16.30.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir10400_24250}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 83e8349c25786ae483beacab66909040
+2016-12-02 15:15:22 INFO  BaseClass:31 - Execution Started......................
+2016-12-02 15:15:22 INFO  BaseClass:23 - Execution Started......................
+2016-12-02 15:15:27 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-02 15:15:27 INFO  BaseClass:45 - clicked on registration link
+2016-12-02 15:15:33 INFO  BaseClass:82 - clicked on submit button
+2016-12-02 15:15:33 INFO  BaseClass:85 - username entered into the text field
+2016-12-02 15:15:34 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-02 15:15:34 INFO  BaseClass:88 - password entered into the text field
+2016-12-02 15:15:34 INFO  BaseClass:91 - clicked on submit button
+2016-12-02 15:15:39 INFO  BaseClass:108 - clicked on interacion link
+2016-12-02 15:15:43 INFO  BaseClass:41 - clicked on flights
+2016-12-02 15:15:43 INFO  BaseClass:44 - clicked on roundtrip
+2016-12-02 15:15:44 INFO  BaseClass:113 - clicked on droppable link
+2016-12-02 15:15:44 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-12-02 15:15:45 INFO  BaseClass:47 - Entered data into from field
+2016-12-02 15:15:45 INFO  BaseClass:50 - Entered data into to field
+2016-12-02 15:15:45 INFO  BaseClass:53 - clicked on departon
+2016-12-02 15:15:45 INFO  BaseClass:56 - clicked on departon date
+2016-12-02 15:15:45 INFO  BaseClass:59 - clicked on returnon
+2016-12-02 15:15:45 INFO  BaseClass:62 - clicked on returnon date
+2016-12-02 15:15:45 INFO  BaseClass:66 - clicked on adults
+2016-12-02 15:15:45 INFO  BaseClass:69 - clicked on children
+2016-12-02 15:15:45 INFO  BaseClass:72 - clicked on infants
+2016-12-02 15:15:45 INFO  BaseClass:75 - clicked on search flights
+2016-12-02 15:15:53 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW0942', ip: '172.16.30.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir9328_18754}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 521f26b8fac18635bd739437f37e168b
+2016-12-02 15:16:39 INFO  BaseClass:31 - Execution Started......................
+2016-12-02 15:16:39 INFO  BaseClass:23 - Execution Started......................
+2016-12-02 15:16:41 INFO  BaseClass:33 - Opened the URL::::::::::::http://way2automation.com/demo.html
+2016-12-02 15:16:42 INFO  BaseClass:45 - clicked on registration link
+2016-12-02 15:16:46 INFO  BaseClass:25 - Opened the URL::::::::::::Https://www.cleartrip.com
+2016-12-02 15:16:48 INFO  BaseClass:82 - clicked on submit button
+2016-12-02 15:16:48 INFO  BaseClass:85 - username entered into the text field
+2016-12-02 15:16:48 INFO  BaseClass:88 - password entered into the text field
+2016-12-02 15:16:48 INFO  BaseClass:91 - clicked on submit button
+2016-12-02 15:16:54 INFO  BaseClass:108 - clicked on interacion link
+2016-12-02 15:16:56 INFO  BaseClass:41 - clicked on flights
+2016-12-02 15:16:57 INFO  BaseClass:44 - clicked on roundtrip
+2016-12-02 15:16:57 INFO  BaseClass:47 - Entered data into from field
+2016-12-02 15:16:57 INFO  BaseClass:50 - Entered data into to field
+2016-12-02 15:16:57 INFO  BaseClass:53 - clicked on departon
+2016-12-02 15:16:57 INFO  BaseClass:56 - clicked on departon date
+2016-12-02 15:16:57 INFO  BaseClass:59 - clicked on returnon
+2016-12-02 15:16:57 INFO  BaseClass:62 - clicked on returnon date
+2016-12-02 15:16:57 INFO  BaseClass:66 - clicked on adults
+2016-12-02 15:16:57 INFO  BaseClass:69 - clicked on children
+2016-12-02 15:16:58 INFO  BaseClass:72 - clicked on infants
+2016-12-02 15:16:58 INFO  BaseClass:75 - clicked on search flights
+2016-12-02 15:17:01 INFO  BaseClass:113 - clicked on droppable link
+2016-12-02 15:17:01 INFO  BaseClass:120 - clicked on shoppingcartdemo link
+2016-12-02 15:17:10 FATAL BaseClass:157 - Unable to open the URLno such frame
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'HW0942', ip: '172.16.30.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\E002789\AppData\Local\Temp\scoped_dir9540_20400}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e4a063ccd786f1e5ea9257f8cc5b1c60

@@ -1,0 +1,13 @@
+<suite name="HMS Suite">
+<test name="HMS Results">
+<classes>
+<class name="hms_testNG.HMS_PR_TestNG">
+<methods>
+<include name="verifyLogin"/>
+<include name="navigateToPR"/>
+<include name="createPatient"/>
+</methods>
+</class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,8 @@
+<suite name="Suite"  >
+    <test name="Test">
+        <classes>
+           <parameter name="TestcaseNo" value="2"></parameter>   
+            <class name="com.testScripts.HmsSearch_Test" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

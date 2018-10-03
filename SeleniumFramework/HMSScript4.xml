@@ -1,0 +1,8 @@
+<suite name="Suite"  >
+    <test name="Test">
+        <classes>
+           <parameter name="TestcaseNo" value="4"></parameter>   
+            <class name="com.testScripts.TEstScript" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
